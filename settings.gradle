@@ -1,0 +1,2 @@
+rootProject.name = "SubJetpack3"
+include ':app'

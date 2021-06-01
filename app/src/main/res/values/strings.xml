@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SubJetpack3</string>
+
+    <string name="movies">Movies</string>
+    <string name="tv_shows">Tv Shows</string>
+
+    <string name="photo">Photo</string>
+    <string name="title">Title</string>
+    <string name="rating">Rating</string>
+    <string name="date">Date</string>
+    <string name="overview">Description</string>
+
+    <string name="duration">"%1$s minutes"</string>
+    <string name="episodes">"%1$s episodes"</string>
+
+    <string name="favorite">Favorite</string>
+    <string name="add_favorite">Add to Favorite</string>
+    <string name="remove_favorite">Remove from Favorite</string>
+
+    <string name="message_done">Done</string>
+    <string name="message_undo">Undo?</string>
+</resources>
